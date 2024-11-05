@@ -57,9 +57,9 @@ function App() {
     <div className="container">
       <h1>Traffic Light System</h1>
       <div>
-        <span>Red Light : 15 sec</span>
+        <span>Red Light : 10 sec</span>
         <span>Yellow Light : 5 sec</span>
-        <span>Green Light : 10 sec</span>
+        <span>Green Light : 15 sec</span>
       </div>
       <p>Timer : {`${timePassed}`}</p>
       <div>
